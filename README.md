@@ -2,7 +2,8 @@
 - 👀 I’m interested in Programming.
 - 🌱 I’m currently doing BSCS.
 
-I am studying Android Development.
+I learned C++ , and Java.
+I am studying Android Development and learning Assembly Language.
 
 
 <!---
